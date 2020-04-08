@@ -1,2 +1,2 @@
 # wxtest
-A test
+A test for wechat
